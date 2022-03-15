@@ -1,6 +1,6 @@
 # Demo 
 
-Demo for Git and Github.
+Demo for Git.
 
 
 ## Subheader
